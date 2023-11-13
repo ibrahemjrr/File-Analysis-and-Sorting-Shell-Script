@@ -8,7 +8,7 @@ In this Project the goal was to  make a script that can accepts a directory path
 - Saves the report in a file named "file_analysis.txt".
 The Script also supports :
 - Support for multiple file extensions, allowing users to search for files with various extensions simultaneously.
-- It includes an option to filter files based on size, permissions, or last modified 4mestamp, allowing users to customize their search criteria.
+- It includes an option to filter files based on size, permissions, or last modified timestamp, allowing users to customize their search criteria.
 - Generating a summary report that displays total file count, total size, and other relevant statistics.
 
 
