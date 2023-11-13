@@ -1,4 +1,4 @@
-# Shell Script / File Analysis and Sorting Script - Atypon Training Assignment May/2023
+# File Analysis and Sorting Shell Script - Atypon Training Assignment July/2023
 
 ![](https://github.com/ibrahemjrr/Shell-Scripting-Assignment/blob/main/images/Screenshot%202023-07-11%20175500.png)
 
